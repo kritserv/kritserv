@@ -1,9 +1,9 @@
-<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:100vw;'>
+<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:90vw; height:10vw;'>
 <p> :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet:</p>
 <h1>:umbrella:Krittipoom Phalachun (Mark)<br>:thailand: กฤติภูมิ  ผลาจันทร์ (มาร์ค)</h1>
 
 <p align='left'><br>:clap:Hello สวัสดีครับ<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
-  <br>:computer::eyes:Interested in <b>business intelligence.</b><br><br>
+  <br>:computer::eyes:Interested in <b>business intelligence, NLP, machine learning, game development.</b><br><br>
 </p>
 
 <h1>Skills</h1>
