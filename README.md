@@ -6,7 +6,16 @@
   <br>:computer::eyes:Interested in <b>business intelligence, NLP, machine learning, game development.</b><br><br>
 </p>
 
+<div align='center'>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krittipoom&show_icons=true&theme=algolia)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <h1>Skills</h1>
+<div align='center'>
 <table style='border-collapse: collapse;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     padding: 3rem;'>
@@ -27,7 +36,8 @@
     <td><img style='width:5vw;' src='https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png'></td>
   </tr>
 </table>
-    <br><br>
+</div>
+<br><br>
 
 
 
