@@ -2,15 +2,15 @@
 <p align='center'> :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet:</p>
 <h1 align='center'>Krittipoom Phalachun (Mark):umbrella:<br>:thailand: กฤติภูมิ  ผลาจันทร์ (มาร์ค)</h1>
 
-<p align='left'><br>:clap:Hello สวัสดีครับ<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
-  <br>:computer::eyes:Interested in <b>business intelligence, NLP, machine learning, game development.</b><br><br>
-</p>
-
 <div align='center'>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krittipoom&show_icons=true&theme=algolia)
+<p align='center'><br>:clap:Hello สวัสดีครับ<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
+  <br>:computer::eyes:Interested in <b>business intelligence, NLP, machine learning, game development.</b><br><br>
+</p>
+  
+  <img height='200vh;' src='https://github-readme-stats.vercel.app/api?username=Krittipoom&show_icons=true&theme=algolia'>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia&layout=compact'>
   
 </div>
 
