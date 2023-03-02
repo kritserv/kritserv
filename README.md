@@ -1,4 +1,4 @@
-<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:100vw; height:5vw;'>
+<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:90vw; height:10vw;'>
 <p align='center'> :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet:</p>
 <h1 align='center'>Krittipoom Phalachun (Mark):umbrella:<br>:thailand: กฤติภูมิ  ผลาจันทร์ (มาร์ค)</h1>
 
@@ -20,27 +20,35 @@
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     padding: 3rem;'>
   <tr>
-    <td><img style='width:5vw;' src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png'></td>
-    <td><img style='width:5vw;' src='https://img.icons8.com/color/512/html-5--v1.png'></td>
-    <td><img style='width:5vw;' src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png'></td>
-    <td><img style='width:5vw;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png'></td>
-    <td><img style='width:5vw;' src='https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk'></td>
-    <td><img style='width:5vw;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/python.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/powerbi.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/tableau.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/django.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/javascript.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/html.png'></td>
   </tr>
   <tr>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/css.png'></td>
     <td><img style='width:5vw;' src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png'></td>
-    <td><img style='width:5vw;' src='https://waikato.github.io/weka-site/images/weka.png'></td>
-    <td><img style='width:5vw;' src='https://media.licdn.com/dms/image/C4E0BAQFK5k_r2gO70Q/company-logo_200_200/0/1651579825927?e=2147483647&v=beta&t=QUwyhtuXYl2eeBURvi-p-ApXaLB8LIR46TLtMJOppPo'></td>
-    <td><img style='width:5vw;' src='https://cdn.worldvectorlogo.com/logos/django.svg'></td>
-    <td><img style='width:5vw;' src='https://cdn-icons-png.flaticon.com/512/888/888850.png?w=1380&t=st=1677687513~exp=1677688113~hmac=17b0f2c2faab37c6220ce87ae83bdec5c70cb5aef27362c7d78e379a30a9cefd'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/rapidminer.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/weka.png'></td>
+    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/excel.png'></td>
     <td><img style='width:5vw;' src='https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png'></td>
   </tr>
 </table>
 </div>
-<br><br>
+<br>
 
+<div align='center'>
+<h2>Personal Website</h2>
 
+<a style='text-decoration:none;'>
 
+[<img src="https://www.krittipoom.com/static/img/Mark2.png" style="width: 3vw;"/>](https://www.krittipoom.com)
+
+<span><h2>www.krittipoom.com</h2></span>
+</a>
+</div>
 
 
 
