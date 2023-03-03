@@ -1,5 +1,4 @@
 <img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:90vw; height:10vw;'>
-<p align='center'> :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet: :droplet:</p>
 <h1 align='center'>Krittipoom Phalachun (Mark):umbrella:<br>:thailand: กฤติภูมิ  ผลาจันทร์ (มาร์ค)</h1>
 
 <div align='center'>
