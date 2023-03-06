@@ -43,7 +43,7 @@
 
 <a style='text-decoration:none;'>
 
-[<img src="https://www.krittipoom.com/static/img/Mark2.png" style="width: 3vw;"/>](https://www.krittipoom.com)
+[<img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/bird.png" style="width: 3vw;"/>](https://www.krittipoom.com)
 
 <span><h2>www.krittipoom.com</h2></span>
 </a>
