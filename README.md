@@ -19,19 +19,19 @@
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     padding: 3rem;'>
   <tr>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/python.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/powerbi.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/tableau.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/django.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/javascript.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/html.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/python.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/powerbi.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/tableau.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/django.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/javascript.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/html.png'></td>
   </tr>
   <tr>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/css.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/css.png'></td>
     <td><img style='width:5vw;' src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/rapidminer.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/weka.png'></td>
-    <td><img style='width:5vw;' src='https://www.krittipoom.com/static/img/excel.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/rapidminer.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/weka.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/excel.png'></td>
     <td><img style='width:5vw;' src='https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png'></td>
   </tr>
 </table>
