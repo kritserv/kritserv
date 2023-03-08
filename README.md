@@ -28,11 +28,11 @@
   </tr>
   <tr>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/css.png'></td>
-    <td><img style='width:5vw;' src='https://cdn-icons-png.flaticon.com/512/5968/5968313.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/html.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/rapidminer.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/weka.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/excel.png'></td>
-    <td><img style='width:5vw;' src='https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/linux.png'></td>
   </tr>
 </table>
 </div>
