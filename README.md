@@ -1,6 +1,5 @@
-<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:90vw; height:10vw;'>
-<h1 align='center'>Krittipoom Phalachun (Mark):umbrella:<br>:thailand: กฤติภูมิ  ผลาจันทร์ (มาร์ค)</h1>
-
+<h1 align='center'>Krittipoom Phalachun (Mark):umbrella:<br></h1>
+<img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:70vw; height:10vw;'>
 <div align='center'>
   
 <p align='center'><br>:clap:Hello สวัสดีครับ<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
