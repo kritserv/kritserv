@@ -2,7 +2,7 @@
 <img src='https://media.tenor.com/FU9DL__kY4oAAAAd/lofi-rain.gif' style='width:70vw; height:10vw;'>
 <div align='center'>
   
-<p align='center'><br>:clap:Hello สวัสดีครับ<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
+<p align='center'><br>:clap:Hello<br><br>I'm a ✨data science✨ student at Silpakorn University:european_castle:. I'm currently in my third year.
   <br>:computer::eyes:Interested in <b>business intelligence, NLP, machine learning, game development.</b><br><br>
 </p>
 
