@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/css.png'></td>
-    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/html.png'></td>
+    <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/mysql.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/rapidminer.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/weka.png'></td>
     <td><img style='width:5vw;' src='https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/excel.png'></td>
