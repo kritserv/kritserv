@@ -5,7 +5,7 @@
   <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:70%;'>
   
   <p align='center'><br>:clap:Hello, I'm a ✨data science✨ student at Silpakorn University:european_castle:. <br>I'm currently in my third year.
-    <br>:computer::eyes:Interested in <br><b>data engineer, business intelligence, NLP, machine learning.</b><br><br>
+    <br>:computer::eyes:Interested in <br><b>data engineer, platform engineer, business intelligence, NLP, machine learning.</b><br><br>
   </p>
 
   <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia&layout=compact'>
