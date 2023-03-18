@@ -1,14 +1,12 @@
-<h1 align='center'>Krittipoom Phalachun (Mark)<br></h1>
-
 <div align='center'>
   
   <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:70%;'>
   
-  <p align='center'><br>:clap:Hello, I'm a ✨data science✨ student at Silpakorn University:european_castle:. <br>I'm currently in my third year.
-    <br>:computer::eyes:Interested in <br><b>data platform engineer, business intelligence, NLP, machine learning.</b><br><br>
+  <h1 align='center'>Krittipoom Phalachun (Mark)<br></h1>
+  
+  <p align='center'><br>:clap:Hello, I'm a ✨data science✨ student at Silpakorn University. <br>I'm currently in my third year.
+    <br>:computer::eyes:Interested in <br><b>data engineer, data analyst, business intelligence, NLP, machine learning.</b><br><br>
   </p>
-
-  <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia&layout=compact'>
   
 </div>
 
@@ -33,6 +31,7 @@
 <br>
 
 <div align='center'>
+  <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia&layout=compact'>
   <h2>Personal Website</h2>
   <a style='text-decoration:none;' href="www.krittipoom.com">www.krittipoom.com</a>
 </div>
