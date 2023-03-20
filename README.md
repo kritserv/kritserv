@@ -1,5 +1,26 @@
 <div align='center'>
   
+<a href="https://github.com/Krittipoom/python-machine-learning-example-and-explanation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation" />
+</a>
+  
+<a href="https://github.com/Krittipoom/FOR-fake-or-real-dataset-classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification" />
+</a>
+  
+<br>
+<br>
+  
+<a href="https://github.com/Krittipoom/python-scrape-itch-io-36-top-rated-games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-scrape-itch-io-36-top-rated-games" />
+</a>
+  
+<a href="https://github.com/Krittipoom/django-laptopstore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore" />
+</a>
+  
+<br><br>
+
   <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:70%;'>
   
   <h1 align='center'>Krittipoom Phalachun (Mark)<br></h1>
