@@ -31,7 +31,7 @@
 <br>
 
 <div align='center'>
-  <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=algolia&layout=compact'>
+  <img height='200vh;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Krittipoom&theme=swift&layout=compact'>
   <h2>Personal Website</h2>
   <a style='text-decoration:none;' href="www.krittipoom.com">www.krittipoom.com</a>
 </div>
