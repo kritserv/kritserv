@@ -1,22 +1,22 @@
 <div align='center'>
   
 <a href="https://github.com/Krittipoom/python-machine-learning-example-and-explanation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=swift" />
 </a>
   
 <a href="https://github.com/Krittipoom/FOR-fake-or-real-dataset-classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=swift" />
 </a>
   
 <br>
 <br>
   
 <a href="https://github.com/Krittipoom/python-scrape-itch-io-36-top-rated-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-scrape-itch-io-36-top-rated-games" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=python-scrape-itch-io-36-top-rated-games&theme=swift" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-laptopstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=swift" />
 </a>
   
 <br><br>
