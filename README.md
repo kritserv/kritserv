@@ -17,8 +17,6 @@
 </a>
   
 <br><br>
-
-  <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:70%;'>
   
   <h1 align='center'>Krittipoom Phalachun (Mark)<br></h1>
   
@@ -54,7 +52,11 @@
   <a style='text-decoration:none;' href="www.krittipoom.com">www.krittipoom.com</a>
 </div>
 
+# 
 
+<div align='center'>
+  <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:50%;'>
+</div>
 
 <!--
 **Krittipoom/Krittipoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
