@@ -18,7 +18,7 @@
   
 <br><br>
   
-  <h1 align='center'>Krittipoom Phalachun (Mark✨)<br></h1>
+  <h1 align='center'>Krittipoom Phalachun (Mark)<br></h1>
   
   <p align='center'><br>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my third year.
     <br>:computer::eyes:Interested in <br><b>data engineer, data analyst, BI, NLP, machine learning.</b><br><br>
