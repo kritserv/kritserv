@@ -52,8 +52,4 @@
   <a style='text-decoration:none;' href="https://www.krittipoom.com">www.krittipoom.com</a>
 </div>
 
-# 
-
-<div align='center'>
-  <img src='https://i.gifer.com/origin/95/95a1ef64a8a1f4e31d22c3a473db6bde.gif' style='width:50%;'>
-</div>
+#
