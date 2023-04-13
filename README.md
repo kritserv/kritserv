@@ -8,8 +8,8 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=swift" />
 </a>
   
-<a href="https://github.com/Krittipoom/python-scrape-itch-io-36-top-rated-games">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-scrape-itch-io-36-top-rated-games&theme=swift" />
+<a href="https://github.com/Krittipoom/django-web-social">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=swift" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-laptopstore">
