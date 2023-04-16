@@ -1,19 +1,19 @@
 <div align='center'>
   
 <a href="https://github.com/Krittipoom/python-machine-learning-example-and-explanation">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=swift" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=chartreuse-dark" />
 </a>
   
 <a href="https://github.com/Krittipoom/FOR-fake-or-real-dataset-classification">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=swift" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=chartreuse-dark" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-web-social">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=swift" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=chartreuse-dark" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-laptopstore">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=swift" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=chartreuse-dark" />
 </a>
   
 <br><br>
@@ -47,7 +47,7 @@
 <br>
 
 <div align='center'>
-  <img height='200vh;' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krittipoom&theme=swift&layout=compact'>
+  <img height='200vh;' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krittipoom&theme=chartreuse-dark&layout=compact'>
   <h2>Personal Website</h2>
   <a style='text-decoration:none;' href="https://www.krittipoom.com">www.krittipoom.com</a>
 </div>
