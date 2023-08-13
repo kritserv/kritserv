@@ -30,18 +30,18 @@
 
 <div align='center'>
   <p float="left">
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/python.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/powerbi.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/tableau.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/django.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/javascript.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/html.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/css.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/mysql.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/rapidminer.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/weka.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/excel.png" width="7%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/skillicon/linux.png" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/python.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/powerbi.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/tableau.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/django.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/javascript.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/html.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/css.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/mysql.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/rapidminer.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/weka.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/excel.webp" width="7%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/linux.webp" width="7%" />
   </p>
 </div>
 <br>
