@@ -20,7 +20,7 @@
   
   <h1 align='center'>Krittipoom Phalachun (Mark)</h1>
   
-  <p align='center'>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my third year.
+  <p align='center'>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my forth year.
     <br>:computer::eyes:Interested in <br><b>data engineer, data analyst, BI, NLP, machine learning.</b><br><br>
   </p>
   
