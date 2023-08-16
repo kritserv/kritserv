@@ -1,23 +1,5 @@
 <div align='center'>
   
-<a href="https://github.com/Krittipoom/python-machine-learning-example-and-explanation">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=kacho_ga" />
-</a>
-  
-<a href="https://github.com/Krittipoom/FOR-fake-or-real-dataset-classification">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=kacho_ga" />
-</a>
-  
-<a href="https://github.com/Krittipoom/django-web-social">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=kacho_ga" />
-</a>
-  
-<a href="https://github.com/Krittipoom/django-laptopstore">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=kacho_ga" />
-</a>
-  
-<br><br>
-  
   <h1 align='center'>Krittipoom Phalachun (Mark)</h1>
   
   <p align='center'>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my forth year.
@@ -47,7 +29,6 @@
 <br>
 
 <div align='center'>
-  <img height='200vh;' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krittipoom&theme=chartreuse-dark&layout=compact'>
   <h2>Personal Website</h2>
   <a style='text-decoration:none;' href="https://www.krittipoom.com">www.krittipoom.com</a>
 </div>
