@@ -1,19 +1,19 @@
 <div align='center'>
   
 <a href="https://github.com/Krittipoom/python-machine-learning-example-and-explanation">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=python-machine-learning-example-and-explanation&theme=kacho_ga" />
 </a>
   
 <a href="https://github.com/Krittipoom/FOR-fake-or-real-dataset-classification">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=FOR-fake-or-real-dataset-classification&theme=kacho_ga" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-web-social">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-web-social&theme=kacho_ga" />
 </a>
   
 <a href="https://github.com/Krittipoom/django-laptopstore">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Krittipoom&repo=django-laptopstore&theme=kacho_ga" />
 </a>
   
 <br><br>
