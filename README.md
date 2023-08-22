@@ -25,8 +25,8 @@
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/rapidminer.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/weka.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/excel.webp" width="9%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/linux.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/docker.webp" width="9%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/linux.webp" width="9%" />
   </p>
 </div>
 <br>
