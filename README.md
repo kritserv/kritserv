@@ -18,9 +18,9 @@
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/powerbi.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/tableau.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/django.webp" width="9%" />
-    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/javascript.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/html.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/css.webp" width="9%" />
+    <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/git.webp" width="9%" />
     <br>
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/mysql.webp" width="9%" />
     <img src="https://raw.githubusercontent.com/Krittipoom/Krittipoom.github.io/main/static/img/icons/postgres.webp" width="9%" />
