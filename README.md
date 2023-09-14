@@ -3,7 +3,7 @@
   <h1 align='center'>Name: Krittipoom Phalachun<br>(Nickname: Mark)</h1>
 
   
-  <p align='center'>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my forth year.
+  <p align='center'>Hello, I'm a data science student at Silpakorn University. <br>I'm currently in my 4th year.
     <br>:computer:Interested in <br><b>data engineer, data analyst, BI, NLP, machine learning.</b><br><br>
   </p>
   
