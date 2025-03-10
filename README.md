@@ -19,6 +19,8 @@
 
  ![Kritserv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritserv&show_icons=true&theme=transparent)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritserv&hide_progress=true&theme=transparent)](https://github.com/kritserv/github-readme-stats)
+
 </details>
 
 <details open>
